@@ -1,11 +1,2 @@
-spring:
-  profiles:
-    active:
-    - dev
-        
----
-spring:
-  profiles: dev
-  application:
-    name: microservicecloud-config-atguigu-dev
-        
+config:
+  info:"master branch version4"
